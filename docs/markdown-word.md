@@ -15,7 +15,7 @@ One of the many capabilities of Pandoc is that it allows you to automatically co
 2. Change your directory to the one that contains the file you would like to convert from Markdown to a Word document.
 
     <figure>
-        <img src="images/image10.png" alt="Markdown logo">
+        <img src="images/media/image10.png" alt="Markdown logo">
         <figcaption><i>Figure 10: Image of terminal showing the changing of directories to one containg Markdown file.</i>
         </figcaption>
     </figure>
@@ -25,9 +25,11 @@ One of the many capabilities of Pandoc is that it allows you to automatically co
 3. Convert the Markdown file to a Word document by typing the command "pandoc -s *[Name of file]*.md -o *[Desired name of file]*.docx"
 
    <figure>
-        <img src="images/image11.png" alt="Markdown logo">
+        <img src="images/media/image11.png" alt="Markdown logo">
         <figcaption><i>Figure 11: Image of terminal showing the command used to convert Markdown file to Word document.</i>
         </figcaption>
     </figure>
 
 You have now converted a Markdown file to a Word document using Pandoc!
+
+{% include footer.md %}

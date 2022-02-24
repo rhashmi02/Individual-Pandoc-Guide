@@ -61,3 +61,5 @@ Installing Pandoc is extremely easy and straight forward to do. As a bonus, it i
     </figure>
 
 You have now installed Pandoc! You can now convert files to different formats using Pandoc. To learn how to convert from a Word document to Markdown or vice versa, look at the other sections provided.
+
+{% include footer.md %}
