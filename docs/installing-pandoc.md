@@ -14,14 +14,14 @@ Installing Pandoc is extremely easy and straight forward to do. As a bonus, it i
 2. Click the installing page at the top of the screen (Figure 2).
 
     <figure>
-        <img src="images/image2.png" alt="Markdown logo">
+        <img src="images/media/image2.png" alt="Markdown logo">
         <figcaption><i>Figure 2: Image of Pandoc home page indicating where installing page is.</i></figcaption>
     </figure>
 
 3. Click the button labeled "Download the latest installer for Windows" (Figure 3).
 
     <figure>
-        <img src="images/image3.png" alt="Markdown logo">
+        <img src="images/media/image3.png" alt="Markdown logo">
         <figcaption><i>Figure 3: Image of Pandoc installing page indicating where installer is.</i></figcaption>
     </figure>
 
@@ -30,7 +30,7 @@ Installing Pandoc is extremely easy and straight forward to do. As a bonus, it i
 4. Allow Pandoc to install by clicking the installer that was downloaded in the bottom left of the screen (Figure 4).
 
     <figure>
-        <img src="images/image4.png" alt="Markdown logo">
+        <img src="images/media/image4.png" alt="Markdown logo">
         <figcaption><i>Figure 4: Image of Pandoc installer.</i></figcaption>
     </figure>
 
@@ -39,7 +39,7 @@ Installing Pandoc is extremely easy and straight forward to do. As a bonus, it i
 5. After reading the terms of use, check the "I accept the terms in the License Agreement" box and click install (Figure 5).
 
     <figure>
-        <img src="images/image5.png" alt="Markdown logo">
+        <img src="images/media/image5.png" alt="Markdown logo">
         <figcaption><i>Figure 5: Image of Pandoc setup wizard showing terms of use.</i></figcaption>
     </figure>
 
@@ -48,7 +48,7 @@ Installing Pandoc is extremely easy and straight forward to do. As a bonus, it i
 6. Click the "Finish" button to complete the installation and exit out of the Setup Wizard (Figure 6).
 
     <figure>
-        <img src="images/image6.png" alt="Markdown logo">
+        <img src="images/media/image6.png" alt="Markdown logo">
         <figcaption><i>Figure 6: Image of Pandoc setup wizard showing installation has completed.</i></figcaption>
     </figure>
 
@@ -56,7 +56,7 @@ Installing Pandoc is extremely easy and straight forward to do. As a bonus, it i
 8. To check if Pandoc has installed, type in the command "pandoc -v" and the version of Pandoc installed will be shown (Figure 7).
 
     <figure>
-        <img src="images/image7.png" alt="Markdown logo">
+        <img src="images/media/image7.png" alt="Markdown logo">
         <figcaption><i>Figure 7: Image of Windows terminal running command to check Pandoc version.</i></figcaption>
     </figure>
 
