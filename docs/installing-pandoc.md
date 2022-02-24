@@ -10,7 +10,7 @@ Installing Pandoc is extremely easy and straight forward to do. As a bonus, it i
 
 ## Steps
 
-1. Go to the [Pandoc website](www.pandoc.org).
+1. Go to the Pandoc website ([www.pandoc.org](https://pandoc.org/)).
 2. Click the installing page at the top of the screen (Figure 2).
 
     <figure>
