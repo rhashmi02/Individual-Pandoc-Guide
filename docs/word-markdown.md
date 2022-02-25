@@ -12,7 +12,7 @@ One of the many capabilities of Pandoc is that it allows you to automatically co
 ## Steps
 
 1. Open a terminal.
-2. Change your directory to the word document that you would like to convert to Markdown.
+2. Change your directory to the word document that you would like to convert to Markdown (Figure 8).
 
     <figure>
         <img src="images/media/image8.png" alt="Markdown logo">
@@ -26,7 +26,7 @@ One of the many capabilities of Pandoc is that it allows you to automatically co
 
     >**Warning:** Not deleting these things from the document may causes issues when converting to markdown.
 
-4. Convert the word document to markdown by typing the command "pandoc -s *[Name of file]*.docx -t markdown --extract-media=images -o *[Desired name of file]*.md".
+4. Convert the word document to markdown by typing the command "pandoc -s *[Name of file]*.docx -t markdown --extract-media=images -o *[Desired name of file]*.md" (Figure 9).
 
     <figure>
         <img src="images/media/image9.png" alt="Markdown logo">
